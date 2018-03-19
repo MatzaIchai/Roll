@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/var/lib/cloud9/Robotics_Cape_Installer/catkin_ws/src/bb_mpu9150/src/linux-mpu9150/mpu9150/quaternion.c
+quaternion.h
+/var/lib/cloud9/Robotics_Cape_Installer/catkin_ws/src/bb_mpu9150/src/linux-mpu9150/mpu9150/quaternion.h
+
+/var/lib/cloud9/Robotics_Cape_Installer/catkin_ws/src/bb_mpu9150/src/linux-mpu9150/mpu9150/quaternion.h
+vector3d.h
+/var/lib/cloud9/Robotics_Cape_Installer/catkin_ws/src/bb_mpu9150/src/linux-mpu9150/mpu9150/vector3d.h
+
+/var/lib/cloud9/Robotics_Cape_Installer/catkin_ws/src/bb_mpu9150/src/linux-mpu9150/mpu9150/vector3d.h
+math.h
+-
+

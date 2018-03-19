@@ -1,0 +1,2 @@
+bb_mpu9150:beginner_tutorials:geometry_msgs:projet:timespace
+-DCATKIN_DEVEL_PREFIX=/var/lib/cloud9/Robotics_Cape_Installer/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/var/lib/cloud9/Robotics_Cape_Installer/catkin_ws/install -G Unix Makefiles

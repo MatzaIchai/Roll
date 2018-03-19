@@ -1,0 +1,8 @@
+prefix=/var/lib/cloud9/Robotics_Cape_Installer/catkin_ws/devel
+
+Name: Projet
+Description: Description of Projet
+Version: 0.0.0
+Cflags: -I/var/lib/cloud9/Robotics_Cape_Installer/catkin_ws/src/Projet/include
+Libs: -L/var/lib/cloud9/Robotics_Cape_Installer/catkin_ws/devel/lib -lProjet
+Requires: roscpp rospy std_msgs

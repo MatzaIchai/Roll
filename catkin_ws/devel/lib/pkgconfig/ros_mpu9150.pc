@@ -1,0 +1,8 @@
+prefix=/var/lib/cloud9/Robotics_Cape_Installer/catkin_ws/devel
+
+Name: ros_mpu9150
+Description: Description of ros_mpu9150
+Version: 0.0.0
+Cflags: 
+Libs: -L/var/lib/cloud9/Robotics_Cape_Installer/catkin_ws/devel/lib 
+Requires: 

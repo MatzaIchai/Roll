@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /var/lib/cloud9/Robotics_Cape_Installer/catkin_ws/install/setup.sh

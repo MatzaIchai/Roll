@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="send_IMU" pkg="projet" type="send_IMU">
+    </node>
+
+    <node name="mpu9150_node" pkg="bb_mpu9150" type="mpu9150_node">
+    </node>
+    <node name="Fuse" pkg="projet" type="Fuse">
+    </node>
+    <node name="conversion" pkg="projet" type="conversion">
+    </node>
+    
+    <node name="send_consigne_vitesse" pkg="projet" type="send_consigne_vitesse">
+    </node>
+    <node name="hdw_talker" pkg="projet" type="hdw_talker">
+    </node>
+</launch>

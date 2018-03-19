@@ -1,0 +1,8 @@
+prefix=/var/lib/cloud9/Robotics_Cape_Installer/catkin_ws/install
+
+Name: bb_mpu9150
+Description: Description of bb_mpu9150
+Version: 0.1.0
+Cflags: 
+Libs: -L/var/lib/cloud9/Robotics_Cape_Installer/catkin_ws/install/lib 
+Requires: 

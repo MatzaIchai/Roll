@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/var/lib/cloud9/Robotics_Cape_Installer/catkin_ws/src/projet/src/moteur/moteur.cpp
+moteur.h
+/var/lib/cloud9/Robotics_Cape_Installer/catkin_ws/src/projet/src/moteur/moteur.h
+
+/var/lib/cloud9/Robotics_Cape_Installer/catkin_ws/src/projet/src/moteur/moteur.h
+rc_usefulincludes.h
+/var/lib/cloud9/Robotics_Cape_Installer/catkin_ws/src/projet/src/moteur/rc_usefulincludes.h
+roboticscape.h
+/var/lib/cloud9/Robotics_Cape_Installer/catkin_ws/src/projet/src/moteur/roboticscape.h
+
